@@ -1,4 +1,4 @@
-#Aplikacja desktopowa do zarządzania bazą klientów i zamówień
+# Aplikacja desktopowa do zarządzania bazą klientów i zamówień
 
 Aplikacja desktopowa napisana w C# z użyciem WinForms, która umożliwia zarządzanie bazą klientów dla konkretnej firmy zajmującej się sprzedażą stolarki drzwiowej i okiennej. Umożliwia dodawanie, edytowanie i usuwanie danych oraz przeszukiwanie bazy danych, która jest przechowywana na serwerze z bazą PostgreSQL.
 
@@ -10,11 +10,11 @@ Aplikacja jest podzielona na kilka modułów, które współpracują, tworząc s
 	• Reklamacje – Umożliwia monitorowanie i obsługę zgłoszonych reklamacji. Zawiera szczegóły zgłoszeń, statusy oraz dane kontaktowe klientów. Pliki związane z reklamacją można łatwo dodawać poprzez pole do przeciągania, a pracownik może przejść do zamówienia, aby zobaczyć dodatkowe informacje.
 Każdy moduł jest połączony z innymi, zapewniając płynny przepływ informacji i umożliwiając kompleksowe zarządzanie danymi klientów oraz zamówień.
 
-#Technologie
+# Technologie
 	• Język programowania: C#
 	• Framework: .NET WinForms
 	• Baza danych: PostgreSQL
 
-#Uwagi
+# Uwagi
 Kod źródłowy zamieszczony w tym repozytorium został stworzony wyłącznie na potrzeby konkretnej firmy i udostępniony tutaj wyłącznie w celach referencyjnych. Kod nie jest przeznaczony do pobrania, używania ani adaptacji przez inne podmioty niż firma, dla której aplikacja została stworzona.
 Dodatkowo, nie zamieszczam schematu bazy danych używanej przez aplikację. W związku z tym kod źródłowy nie jest kompletny i nie może być używany bezpośrednio przez osoby trzecie.
