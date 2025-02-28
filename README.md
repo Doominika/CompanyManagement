@@ -32,3 +32,4 @@ Każdy moduł jest połączony z innymi, zapewniając płynny przepływ informac
 # Uwagi
 Kod źródłowy zamieszczony w tym repozytorium został stworzony wyłącznie na potrzeby konkretnej firmy i udostępniony tutaj wyłącznie w celach referencyjnych. Kod nie jest przeznaczony do pobrania, używania ani adaptacji przez inne podmioty niż firma, dla której aplikacja została stworzona.
 Dodatkowo, nie zamieszczam schematu bazy danych używanej przez aplikację. W związku z tym kod źródłowy nie jest kompletny i nie może być używany bezpośrednio przez osoby trzecie.
+
